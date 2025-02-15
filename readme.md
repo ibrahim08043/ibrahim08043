@@ -1,7 +1,7 @@
 <img alt="Coding" style="border-radius:16px;" src="./background.png">
 
-<h1 align="center">Hi there! 👋 I'm Muhammad Hamid Raza</h1>
-<h3 align="center">A Passionate Full-Stack Developer | React | Node.js | MongoDB | Next.js</h3>
+<h1 align="center">Hi there! 👋 I'm Muhammad Ibrahim</h1>
+<h3 align="center">A Passionate Mern Stack Developer | React | Node.js | MongoDB | Next.js</h3>
 
 ---
 
@@ -10,7 +10,7 @@
 - 💡 Always eager to learn, innovate, and solve complex problems.
 - 💼 Currently working on exciting projects using **React.js, Node.js, Firebase, and PostgreSQL**.
 - 🛠️ Open to collaborations on **web development, real-time applications, and API integrations**.
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **ibrahimkashif792@gmail.com**
 
 ---
 
