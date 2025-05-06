@@ -6,7 +6,7 @@
 <h3 align="center">Crafting Web Magic with MERN • React • Node.js<br>MongoDB • Next.js</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img alt="Coding" style="border-radius:16px;" src="./background.png">
 </p>
 
 ---
